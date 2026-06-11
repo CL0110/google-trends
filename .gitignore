@@ -1,0 +1,6 @@
+# Python
+__pycache__/
+*.pyc
+
+# Operational log is per-machine noise, not data
+notes/trends.log
