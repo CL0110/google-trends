@@ -1,0 +1,247 @@
+{
+  "geo": "US",
+  "fetched_et": "2026-06-12 10:00 EDT",
+  "count": 10,
+  "trends": [
+    {
+      "rank": 1,
+      "title": "downdetector",
+      "approx_traffic": "500+",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZoSf_ylCqTCd6F4hsrTd7xsSUASknDNtfqwi7DfENFqOMoNANXKqGWJUie0U",
+      "pub_date": "Fri, 12 Jun 2026 06:40:00 -0700",
+      "news": [
+        {
+          "title": "Gemini Outage Mostly Resolved: What Went Wrong for Google's AI",
+          "url": "https://www.cnet.com/news-live/gemini-down-live-updates-google-workspaces-ai-errors/",
+          "source": "CNET"
+        },
+        {
+          "title": "Is Gemini down? Google acknowledges 'something went wrong' errors.",
+          "url": "https://mashable.com/tech/google-gemini-down-google-acknowledges-problem",
+          "source": "Mashable"
+        },
+        {
+          "title": "Is Google Gemini down? Users getting 1099, 1076 errors",
+          "url": "https://www.app.com/story/tech/2026/06/10/gemini-not-working-1099-error-1076/90487260007/",
+          "source": "Asbury Park Press"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "tsla",
+      "approx_traffic": "1000+",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvhgjfeSDY4XTZMyuQAW4YunaRhD-qF28wp748KIzsFBjT6Vj2h1bMYdXy0A8",
+      "pub_date": "Fri, 12 Jun 2026 06:40:00 -0700",
+      "news": [
+        {
+          "title": "Tesla Stock Needs the SpaceX IPO to Happen Already",
+          "url": "https://www.barrons.com/articles/tesla-stock-price-spacex-ipo-selling-949d5661",
+          "source": "Barron's"
+        },
+        {
+          "title": "TSLA Stock Sinks As SpaceX IPO Nears — Analyst Says Investors Are Selling Tesla To Catch A Day-1 Pop In Next Musk Trade",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tsla-stock-sinks-spacex-ipo-013624117.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "What Tesla's IPO tells us about SpaceX's listing",
+          "url": "https://www.cnbc.com/video/2026/06/11/what-teslas-ipo-tells-us-about-spacexs-listing.html",
+          "source": "CNBC"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "spce stock",
+      "approx_traffic": "1000+",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQR6phrJFfiitK9ymaNOilclzbDgiUBf608-TPDl2h7MHXspo1TfOK6i48eAuo",
+      "pub_date": "Fri, 12 Jun 2026 06:40:00 -0700",
+      "news": [
+        {
+          "title": "Virgin Galactic stock pops ahead of SpaceX IPO",
+          "url": "https://finance.yahoo.com/markets/stocks/article/virgin-galactic-stock-pops-ahead-of-spacex-ipo-153607589.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Virgin Galactic Stock Leads Space Stocks Higher Ahead of SpaceX IPO",
+          "url": "https://www.barchart.com/story/news/2430692/virgin-galactic-stock-leads-space-stocks-higher-ahead-of-spacex-ipo",
+          "source": "Barchart.com"
+        },
+        {
+          "title": "SPCE Stock Heads For Weekly Gain – Retail Traders Expect A 'Meme Run' As SpaceX Debut Draws Close",
+          "url": "https://stocktwits.com/news-articles/markets/equity/spce-stock-weekly-gain-retail-traders-expect-meme-run-as-space-x-debut-draws-close/cZK5s9DR7Pm",
+          "source": "Stocktwits"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "nauru",
+      "approx_traffic": "200+",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRiYJLUAsQq0Rj93PqE-Vz83sk2ViN7ZpSsZFoeCIdpUEh9jZ8BWQR7Kmzw7b0",
+      "pub_date": "Fri, 12 Jun 2026 06:40:00 -0700",
+      "news": [
+        {
+          "title": "Pacific nation of Nauru wants to change its name as it moves on from colonial past",
+          "url": "https://www.theguardian.com/world/2026/jun/11/nauru-name-change-naoero",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Nauru Prepares to Change Name",
+          "url": "https://raillynews.com/2026/06/nauru-prepares-to-change-name/",
+          "source": "RaillyNews"
+        },
+        {
+          "title": "Tiny Oceanic island country changes its name inspired by Türkiye",
+          "url": "https://www.milliyet.com.tr/news/tiny-oceanic-island-country-changes-its-name-inspired-by-turkiye-7603517",
+          "source": "Milliyet"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "nyse",
+      "approx_traffic": "200+",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTW8YhbE0sW8uU7D3-5cQdMOTjHj9KgGbmC-az5RuYS6ZYjBXVd8t_DX0FcVXQ",
+      "pub_date": "Fri, 12 Jun 2026 06:40:00 -0700",
+      "news": [
+        {
+          "title": "Fifth Third joining NYSE from Nasdaq in largest bank stock shift ever",
+          "url": "https://www.bizjournals.com/cincinnati/news/2026/06/09/fifth-third-shifting-nyse-stock-listing-nasdaq-why.html",
+          "source": "The Business Journals"
+        },
+        {
+          "title": "NYSE Content Update: Fifth Third Bancorp Celebrates Historic Listing Transfer",
+          "url": "https://sg.finance.yahoo.com/news/nyse-content-fifth-third-bancorp-125500031.html",
+          "source": "Yahoo Finance Singapore"
+        },
+        {
+          "title": "Fifth Third Bancorp Primary Exchange Listing will Change to New York Stock Exchange from Nasdaq Global Select",
+          "url": "https://www.marketscreener.com/news/fifth-third-bancorp-primary-exchange-listing-will-change-to-new-york-stock-exchange-from-nasdaq-glob-ce7f5cd8de8af620",
+          "source": "marketscreener.com"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "nasa stock",
+      "approx_traffic": "200+",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9F3f7rziIQPSUYOed-tctGVyKwrgrF89pvogFdOjz8ScgkXiRRzCR0GmusGI",
+      "pub_date": "Fri, 12 Jun 2026 06:40:00 -0700",
+      "news": [
+        {
+          "title": "Single-Stock SpaceX ETFs Are Coming, but They’re No-Gos for Most Investors",
+          "url": "https://global.morningstar.com/en-ca/etfs/single-stock-spacex-etfs-are-coming-theyre-no-gos-most-investors",
+          "source": "Morningstar"
+        },
+        {
+          "title": "Wall Street Races to Turn SpaceX Into a Leveraged Retail Trade",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-11/wall-street-races-to-turn-spacex-into-a-leveraged-retail-trade",
+          "source": "Bloomberg.com"
+        },
+        {
+          "title": "Many Canadian investors will get early exposure to SpaceX IPO because of new Nasdaq rules",
+          "url": "https://www.theglobeandmail.com/business/article-etf-investors-face-uneven-playing-field-as-sp-opts-to-leave-spacex-out/",
+          "source": "The Globe and Mail"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "charles schwab",
+      "approx_traffic": "2000+",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzHnEV2y1qK5OHXg-7R3QA4ag9WWCrA3xXqQD1__nYcwymg8nq2AXKrX7Cz0M",
+      "pub_date": "Fri, 12 Jun 2026 06:30:00 -0700",
+      "news": [
+        {
+          "title": "There's more 'adoption of options' among retail traders: Schwab",
+          "url": "https://finance.yahoo.com/video/theres-more-adoption-of-options-among-retail-traders-schwab-205207901.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Seeing a pickup in options trading among retail investors, says Charles Schwab's Joe Mazzola",
+          "url": "https://www.cnbc.com/video/2026/06/08/seeing-a-pickup-in-options-trading-among-retail-investors-says-charles-schwabs-joe-mazzola.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Schwab Trading Activity Index rebounds in May (NVDA:NASDAQ)",
+          "url": "https://seekingalpha.com/news/4601527-schwab-trading-activity-index-rebounds-in-may",
+          "source": "Seeking Alpha"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "cnbc",
+      "approx_traffic": "2000+",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThqzDTcIXMizeeP6EH507715eL75evtorpg6nQc75XRxrLjkscOaPLe7uBhEE",
+      "pub_date": "Fri, 12 Jun 2026 06:30:00 -0700",
+      "news": [
+        {
+          "title": "SpaceX IPO, U.S-Iran deal, Bezos on AI and more in Morning Squawk",
+          "url": "https://www.cnbc.com/2026/06/12/5-things-to-know-before-the-stock-market-opens.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Stock Market Today: Dow Rises On Iran Peace Deal Hopes; SpaceX IPO To Start Trading (Live Coverage)",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-iran-deal-spacex-ipo-spcx-stock/",
+          "source": "Investor's Business Daily"
+        },
+        {
+          "title": "Stock Market Today: Dow futures higher, S&P 500 and Nasdaq set to open mixed as oil prices extend drop on reports U.S.-Iran agree to reopen Strait of Hormuz; SpaceX debuts",
+          "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-jones-spacex-ipo-first-trade-us-iran-peace-deal",
+          "source": "MarketWatch"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "rebecca hall",
+      "approx_traffic": "500+",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWOnBAFJHGZhbl9hhKE0a0Y6dkxcdTeuj-x9B6AOxb-6uSnwZd2_GiFGUJOew",
+      "pub_date": "Fri, 12 Jun 2026 06:30:00 -0700",
+      "news": [
+        {
+          "title": "‘The Listeners’ Review: Rebecca Hall’s Tour de Force Performance Carries Starz’s Eerie and Elusive Semi-Thriller",
+          "url": "https://www.hollywoodreporter.com/tv/tv-reviews/the-listeners-review-rebecca-hall-starz-bbc-one-1236618902/",
+          "source": "The Hollywood Reporter"
+        },
+        {
+          "title": "‘The Listeners’ Review: A Subtle Sonic Plague on Starz",
+          "url": "https://www.wsj.com/arts-culture/television/the-listeners-review-a-subtle-sonic-plague-on-starz-e018f2c3",
+          "source": "WSJ"
+        },
+        {
+          "title": "‘The Listeners’ moves slowly but demands that you hear the hum",
+          "url": "https://www.latimes.com/entertainment-arts/tv/story/2026-06-12/the-listeners-review-rebecca-hall-starz-bbc",
+          "source": "Los Angeles Times"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "spx stock",
+      "approx_traffic": "500+",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdrGhNkO1S6hYYd03fN5DMu3Hv4Ls_22y5o-UI3drUPoyVhWFwjF3W3lyjc2w",
+      "pub_date": "Fri, 12 Jun 2026 06:30:00 -0700",
+      "news": [
+        {
+          "title": "Here are the odds of bear markets in each stock index this summer",
+          "url": "https://www.cnbc.com/2026/06/11/here-are-the-odds-of-bear-markets-in-each-stock-index-this-summer.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "SpaceX IPO, U.S-Iran deal, Bezos on AI and more in Morning Squawk",
+          "url": "https://www.cnbc.com/2026/06/12/5-things-to-know-before-the-stock-market-opens.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Stock Market Today: Dow Rises On Iran Peace Deal Hopes; SpaceX IPO To Start Trading (Live Coverage)",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-iran-deal-spacex-ipo-spcx-stock/",
+          "source": "Investor's Business Daily"
+        }
+      ]
+    }
+  ]
+}
