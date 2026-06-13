@@ -1,0 +1,247 @@
+{
+  "geo": "US",
+  "fetched_et": "2026-06-13 09:30 EDT",
+  "count": 10,
+  "trends": [
+    {
+      "rank": 1,
+      "title": "hillary clinton",
+      "approx_traffic": "200+",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbQXAzYuqca2WRzgN87BjJg0xzEaB_rExOBE-apSutI36MFOSWTBoLPDi6zXQ",
+      "pub_date": "Sat, 13 Jun 2026 06:10:00 -0700",
+      "news": [
+        {
+          "title": "Pritzker, Clinton, Buttigieg take the stage",
+          "url": "https://www.politico.com/newsletters/illinois-playbook/2026/06/12/pritzker-clinton-buttigieg-take-the-stage-00960117",
+          "source": "Politico"
+        },
+        {
+          "title": "Hillary Clinton Discusses Democracy & the State of Politics",
+          "url": "https://www.c-span.org/program/public-affairs-event/hillary-clinton-discusses-democracy-the-state-of-politics/680930",
+          "source": "C-SPAN"
+        },
+        {
+          "title": "Hillary Clinton urges grassroots movement at Rainbow PUSH, warns of ‘revolution to turn the clock back’",
+          "url": "https://www.chicagotribune.com/2026/06/11/hillary-clinton-prizker-chicago-push-convention/",
+          "source": "Chicago Tribune"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "trump independent voter polling",
+      "approx_traffic": "200+",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPsAj0nGR0dZdP1cHpHYJJYl6VXH8cpzAU4dfMEN64TODhMSY0D-cB9DofwA",
+      "pub_date": "Sat, 13 Jun 2026 06:00:00 -0700",
+      "news": [
+        {
+          "title": "Trump has lost support from independents over the course of his second term",
+          "url": "https://apnorc.org/projects/trump-has-lost-support-from-independents-over-the-course-of-his-second-term/",
+          "source": "AP-NORC"
+        },
+        {
+          "title": "Where Trump has lost support with independents, according to AP-NORC polling",
+          "url": "https://apnews.com/article/poll-independents-trump-approval-c44ab6c775fba86de739353217108673",
+          "source": "AP News"
+        },
+        {
+          "title": "Trump support among Independents collapses in second term, new poll shows",
+          "url": "https://www.the-independent.com/news/world/americas/us-politics/donald-trump-independent-voters-support-decline-apnorc-b2994584.html",
+          "source": "The Independent"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "harrison ford",
+      "approx_traffic": "200+",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQzBz6HNexfuip4zmJ1bDUdWL8xHEr2XRQGJpWs3yyC-vLZ0lSPuIjejl4Q80U",
+      "pub_date": "Sat, 13 Jun 2026 06:00:00 -0700",
+      "news": [
+        {
+          "title": "Steven Spielberg Reveals Mega-Star Who Turned Down ‘Jurassic Park’",
+          "url": "https://www.thedailybeast.com/obsessed/steven-spielberg-reveals-which-mega-star-turned-down-jurassic-park/",
+          "source": "The Daily Beast"
+        },
+        {
+          "title": "Steven Spielberg Confirms Harrison Ford Turned Down Role of Dr. Adam Grant in Jurassic Park",
+          "url": "https://people.com/steven-spielberg-confirms-harrison-ford-turned-down-role-of-dr-adam-grant-in-jurassic-park-11996495",
+          "source": "People.com"
+        },
+        {
+          "title": "Harrison Ford Rejected a Huge Sci-Fi Role & Steven Spielberg Was ‘Crushed’",
+          "url": "https://www.yahoo.com/entertainment/movies/articles/harrison-ford-rejected-huge-sci-111000915.html",
+          "source": "Yahoo"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "dayton air show",
+      "approx_traffic": "200+",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2lWmL3URIpcu53II11tTb5uwcKpj93ETO1HLR3ocObTt_yjzMVH25jTR6ZIE",
+      "pub_date": "Sat, 13 Jun 2026 06:00:00 -0700",
+      "news": [
+        {
+          "title": "Blue Angels land in Dayton ahead of Air Show; pilot returns to Ohio roots",
+          "url": "https://www.whio.com/news/local/blue-angels-land-dayton-ahead-air-show-pilot-returns-ohio-roots/QAXOMQ7XLRGCVM7AFQJIONIF2E/",
+          "source": "WHIO TV"
+        },
+        {
+          "title": "Dayton Air Show ready to soar with global aircraft displays",
+          "url": "https://www.yahoo.com/lifestyle/articles/dayton-air-show-ready-soar-202244617.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "Blue Angels take practice flight",
+          "url": "https://www.registerherald.com/2026/06/12/blue-angels-take-practice-flight/",
+          "source": "Register-Herald"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "u.s. energy department",
+      "approx_traffic": "500+",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcStoLhmpaaGVq9fMptb4PucsxfJMohk-sv1_HcnEmZfkLF8crtDHXiOQCsMfwY",
+      "pub_date": "Sat, 13 Jun 2026 06:00:00 -0700",
+      "news": [
+        {
+          "title": "DOE head says agency didn’t punish blue states. His lawyers admit it did.",
+          "url": "https://www.washingtonpost.com/business/2026/06/12/energy-dept-head-says-agency-didnt-punish-blue-states-his-lawyers-admit-it-did/",
+          "source": "The Washington Post"
+        },
+        {
+          "title": "Judge overturns DOE’s cancellation of $82.1M in clean energy grants",
+          "url": "https://www.utilitydive.com/news/judge-overturns-doe-cancellation-clean-energy-grants/822818/",
+          "source": "Utility Dive"
+        },
+        {
+          "title": "Energy Department Reverses Blue State Grant Cuts",
+          "url": "https://heatmap.news/am/blue-state-grants",
+          "source": "Heatmap News"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "senate democrats block surveillance bills",
+      "approx_traffic": "500+",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYnIZi10YXMgBEW_IFGPbCJdgavhK1rmOco55QM2eL5JL3TrICQZuIKTfvZ1Q",
+      "pub_date": "Sat, 13 Jun 2026 05:50:00 -0700",
+      "news": [
+        {
+          "title": "Pulte pick sparks a Senate GOP rebellion",
+          "url": "https://www.axios.com/2026/06/04/pulte-senate-section-702-trump",
+          "source": "Axios"
+        },
+        {
+          "title": "Exclusive | Trump Urges ‘Less Shackled’ Pulte to Fire Intelligence-Community Employees",
+          "url": "https://www.wsj.com/politics/national-security/trump-urges-less-shackled-pulte-to-fire-intelligence-community-employees-aa62d70d",
+          "source": "WSJ"
+        },
+        {
+          "title": "7 Senate Republicans join Democrats in resisting surveillance law",
+          "url": "https://www.washingtonpost.com/national-security/2026/06/05/senate-balks-extending-controversial-fisa-surveillance-law/",
+          "source": "The Washington Post"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "omaha weather",
+      "approx_traffic": "200+",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkiDS6Kyg9DgjZNb2EIS2AlE2vHShk5cCKRkJCtq6iXjSt_G_UU3eLDBwiReE",
+      "pub_date": "Sat, 13 Jun 2026 05:50:00 -0700",
+      "news": [
+        {
+          "title": "Strong storms continuing south and east of metro",
+          "url": "https://www.wowt.com/2026/06/11/first-alert-severe-thunderstorm-watch-issued-metro-surrounding-area/",
+          "source": "WOWT"
+        },
+        {
+          "title": "Another Round of Thunderstorms Threatens Eastern Nebraska Thursday Morning",
+          "url": "https://www.1011now.com/2026/06/10/another-round-thunderstorms-threatens-eastern-nebraska-thursday-morning/",
+          "source": "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE"
+        },
+        {
+          "title": "Severe weather brings tornado warnings, hail and heavy rain to Nebraska, Iowa on Thursday morning",
+          "url": "https://www.ketv.com/article/nebraska-iowa-weather-tornado-warnings-issued/71556602",
+          "source": "KETV"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "jack schlossberg",
+      "approx_traffic": "200+",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwPfg-avylJX3rOaXNIyKFjzPX9kbCvG_IC628vyrL3xB1wlq5Qod7ctJdlyM",
+      "pub_date": "Sat, 13 Jun 2026 05:40:00 -0700",
+      "news": [
+        {
+          "title": "Jack Schlossberg Wants PEOPLE Readers to Know: 'I Am Looking for Love' (Exclusive)",
+          "url": "https://people.com/jack-schlossberg-looking-for-love-exclusive-11994060",
+          "source": "People.com"
+        },
+        {
+          "title": "Jack Schlossberg Gives an Update on His Dating Life and Shares What He's Looking for in a \"Soulmate\"",
+          "url": "https://www.instyle.com/jack-schlossberg-gives-update-dating-life-11995899",
+          "source": "InStyle"
+        },
+        {
+          "title": "Jack Schlossberg Gives an Update on His Dating Life and Shares What He's Looking for in a \"Soulmate\"",
+          "url": "https://www.aol.com/articles/jack-schlossberg-gives-dating-life-165651000.html",
+          "source": "AOL.com"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "kate middleton trooping the colour",
+      "approx_traffic": "500+",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDQ6ISGSTWHfwqNAPrEBke7WR-RBNq7wrxk92zhlrm_gR4VRPMKcVIAEqna2A",
+      "pub_date": "Sat, 13 Jun 2026 05:30:00 -0700",
+      "news": [
+        {
+          "title": "Meghan Markle's One-Word Joke to Kate Middleton at Trooping the Colour Was Met with Awkward Silence",
+          "url": "https://people.com/prince-harry-recalled-an-awkward-exchange-between-meghan-markle-and-kate-middleton-11997531",
+          "source": "People.com"
+        },
+        {
+          "title": "Prince Harry's 'awkward moment' with Meghan at Trooping the Colour explained",
+          "url": "https://www.mirror.co.uk/news/royals/harry-meghan-trooping-awkward-moment-37274866",
+          "source": "The Mirror"
+        },
+        {
+          "title": "Meghan Markle’s Trooping the Colour joke ‘met with yawning silence’ in awkward moment",
+          "url": "https://www.express.co.uk/news/royal/2215691/meghan-markles-trooping-colour-joke",
+          "source": "Daily Express"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "gurnoor brar",
+      "approx_traffic": "1000+",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ4g2A1u_5bkc1LuE1lc32z1NEdaRQAxS8SOnP5G99_xEjawWqYdeVGX6xPBqY",
+      "pub_date": "Sat, 13 Jun 2026 05:20:00 -0700",
+      "news": [
+        {
+          "title": "Ind vs Afg 1st ODI - Morne Morkel - Always nice to have Rohit Sharma's experience",
+          "url": "https://www.espn.com/video/clip/_/id/49047275/always-nice-roh-experience",
+          "source": "ESPN"
+        },
+        {
+          "title": "\"My first impression, I felt they've been in the team for five years\": Morkel impressed by uncapped pacers Prince, Brar",
+          "url": "https://www.aninews.in/news/sports/cricket/my-first-impression-i-felt-theyve-been-in-the-team-for-five-years-morkel-impressed-by-uncapped-pacers-prince-brar20260613015354",
+          "source": "ANI News"
+        },
+        {
+          "title": "\"Should be given chance in playing XI\": Kumble on uncapped Prince Yadav for IND-AFG ODIs",
+          "url": "https://www.bignewsnetwork.com/news/279117606/should-be-given-chance-in-playing-xi-kumble-on-uncapped-prince-yadav-for-ind-afg-odis",
+          "source": "Big News Network.com"
+        }
+      ]
+    }
+  ]
+}
